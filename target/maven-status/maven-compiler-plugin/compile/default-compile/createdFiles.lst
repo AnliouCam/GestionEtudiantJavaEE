@@ -1,0 +1,11 @@
+com\iua\gestionetudiants\model\Etudiant.class
+com\iua\gestionetudiants\controller\NoteServlet.class
+com\iua\gestionetudiants\model\Note.class
+com\iua\gestionetudiants\rest\EtudiantRestService.class
+com\iua\gestionetudiants\rest\RestApplication.class
+com\iua\gestionetudiants\service\NoteService.class
+com\iua\gestionetudiants\controller\EtudiantServlet.class
+com\iua\gestionetudiants\dao\NoteDAO.class
+com\iua\gestionetudiants\dao\EtudiantDAO.class
+com\iua\gestionetudiants\rest\LocalDateAdapter.class
+com\iua\gestionetudiants\service\EtudiantService.class

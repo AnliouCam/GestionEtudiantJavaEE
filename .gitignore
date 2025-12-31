@@ -1,4 +1,12 @@
 # ====================================================
+# Fichiers personnels
+# ====================================================
+DEMARRER_ICI.md
+technologies_explications.md
+etat_avancement.md
+plan.md
+
+# ====================================================
 # Fichiers sensibles - Base de données
 # ====================================================
 script.sql
